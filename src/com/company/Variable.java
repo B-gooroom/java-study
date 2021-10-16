@@ -23,5 +23,8 @@ public class Variable {
         System.out.println(v3);
 
         // 변수 Delete
+
+        int a = 1 , b = 2 , c = 3;
+
     }
 }
