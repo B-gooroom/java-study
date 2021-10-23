@@ -20,5 +20,17 @@ public class Operator {
 
         System.out.println(tax);
         System.out.println(realsalary);
+
+        boolean boolean1 = true;
+        boolean boolean2 = true;
+//        boolean result6 = boolean1 - boolean2;
+
+        boolean equalBoolean1 = true == true;
+        boolean equalBoolean2 = true == false;
+        boolean equalInt1 = 1 == 1;
+        boolean equalInt2 = 1 == 2;
+        boolean equalString1 = "a" == "a";
+        boolean equalString2 = "a" == "b";
+
     }
 }
